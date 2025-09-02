@@ -1,1 +1,9 @@
+# Arquivos de ambiente (nunca versionar!)
+.env
+.env.*.local
+.env.local
 .vercel
+
+# Criados pelo Vercel CLI (tokens temporários)
+.vercel/*
+.env*.local

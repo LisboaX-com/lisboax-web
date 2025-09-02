@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lisboax.meditacaoflow",
+      "sha256_cert_fingerprints": [
+        "46:11:96:11:53:43:20:68:9D:F5:7F:21:AC:19:8C:92:92:7D:46:11:96:11:53:43:20:68",
+        "6E:82:BA:D0:53:20:FE:22:4D:D9:1A:3E:61:42:61:C2:64"
+      ]
+    }
+  }
+]
