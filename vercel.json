@@ -23,12 +23,12 @@
   "redirects": [
     {
       "source": "/auth",
-      "destination": "/auth/confirm.html",
+      "destination": "/auth/callback.html",
       "permanent": false
     },
     {
-      "source": "/confirm",
-      "destination": "/auth/confirm.html", 
+      "source": "/auth",
+      "destination": "/auth/callback.html", 
       "permanent": false
     }
   ]
